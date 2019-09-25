@@ -54,7 +54,7 @@ body {
 	height: 3.5rem;
 }
 
-.header__logo-box:hover .logo {
+.header__logo-box:hover .header__logo {
 	animation: spin 1s linear;
 }
 
